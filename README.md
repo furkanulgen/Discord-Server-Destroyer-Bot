@@ -9,9 +9,7 @@
 ### All possible problems belong to the user./Olası tüm sorunlar kullanıcıya aittir.
 
 
-## How to use ?
-### Very soon
-
-<!-- ![video]() --> 
+## How to use ? / Nasıl Kullanılır ?
+![Click Me](https://youtu.be/N4RRk4xvjlc)
 
 Go To [LinkedIn](https://www.linkedin.com/in/furkanulgen/)
