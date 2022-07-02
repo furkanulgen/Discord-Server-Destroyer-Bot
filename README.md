@@ -10,6 +10,6 @@
 
 
 ## How to use ? / Nasıl Kullanılır ?
-![Click Me](https://youtu.be/N4RRk4xvjlc)
+[![You can watch the video and learn how to use it.](https://img.youtube.com/vi/N4RRk4xvjlc/0.jpg)](https://www.youtube.com/watch?v=N4RRk4xvjlc)
 
 Go To [LinkedIn](https://www.linkedin.com/in/furkanulgen/)
