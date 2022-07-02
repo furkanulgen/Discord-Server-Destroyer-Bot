@@ -1,0 +1,9 @@
+{
+    "token":"Your Bot Token",
+    "founderID":"Your Discord ID",
+    "prefix":"+",
+    "icon":"https://uxwing.com/wp-content/themes/uxwing/download/34-crime-security-military-law/bomb.png",
+    "whiteListID1":"Your Server IDs if you want",
+    "whiteListID2":"Your Server IDs if you want",
+    "whiteListID3":"Your Server IDs if you want"
+}
